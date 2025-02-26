@@ -5,7 +5,7 @@
         "Added New Screen",
         "Minor Bug Fixes"
     ],
-    "macos_file_name": "installers/macos/in_app_update_flutter.dmg",
+    "macos_file_name": "https://raw.githubusercontent.com/ltnghia97/fileupload/refs/heads/main/in_app_update_flutter_windows%201.0.0.dmg",
     "windows_file_name": "installers/windows/mysetup.exe",
     "linux_file_name": ""
 }
